@@ -1,3 +1,8 @@
+/*
+	Name: Jaquelin Fraire
+	Course: CS3502
+	Assignment 2
+*/
 #include "buffer.h"
 #include <sys/shm.h>
 #include <fcntl.h> 

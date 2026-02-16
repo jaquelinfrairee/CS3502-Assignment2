@@ -1,3 +1,8 @@
+/*
+	Name: Jaquelin Fraire
+	Course: CS3502
+	Assignment 2
+*/
 #ifndef BUFFER_H
 #define BUFFER_H
 
